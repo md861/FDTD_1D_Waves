@@ -2,7 +2,7 @@
 An example Finite Difference code for scalar wave problems in Matlab.
 # Description of files:
 * `OneDim_scalarWave.m`
-  * Created for the purpose of research and fun!
+  * Created for the purpose of fun!
   * Solves the 1D - scalar wave equation,
   * Backward Euler in time and Central Difference in space
   * Periodic boundary condition
