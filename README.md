@@ -1,4 +1,4 @@
-# FDTD_Waves
+# FDTD_1D_Waves
 An example Finite Difference code for scalar wave problems in Matlab, although hopefully this should run with Octave (with minimal changes).
 # Description of files:
 * `OneDim_scalarWave.m`
